@@ -4,4 +4,4 @@ echo "hello git!";
 
 ?>
 
-this is a word!i love php and git!
+This is a word!I love php and git!
